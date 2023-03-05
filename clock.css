@@ -15,8 +15,8 @@
 #clock {
     position: relative;
     margin: auto;
-    height: 60vw;
-    width: 60vw;
+    height: 300px;
+    width: 300px;
     border-radius: 50%;
     background-color: var(--color2);
     background-image: var(--face);
@@ -27,8 +27,8 @@
 #border {
     position: relative;
     margin: auto;
-    height: 60.2vw;
-    width: 60.5vw;
+    height: 302px;
+    width: 303px;
     border-radius: 50%;
     border: 10px solid;
 }
